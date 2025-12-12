@@ -1,0 +1,350 @@
+{
+    "delta-medical-college": {
+        "name": "Delta Medical College",
+        "city": "Dhaka City, Bangladesh",
+        "courses": "MBBS, BDS",
+        "logo_url": null
+    },
+    "enam-medical-college": {
+        "name": "Enam Medical College",
+        "city": "Savar, Dhaka City",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "popular-medical-college": {
+        "name": "Popular Medical College",
+        "city": "25 Road No. 2, Dhaka 1205, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "green-life-medical-college-and-hospital": {
+        "name": "Green Life Medical College and Hospital",
+        "city": "Green Rd, Dhaka 1205",
+        "courses": "MBBS, B.Sc Nursing, Diploma Nursing, Post-Basic Nursing",
+        "logo_url": null
+    },
+    "jahurul-islam-medical-college": {
+        "name": "Jahurul Islam Medical College",
+        "city": "Vagolpur, Bajitpur Bazar Rd, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "city-medical-college-and-hospital": {
+        "name": "City Medical College and Hospital",
+        "city": "Itahata, Tangail Road, Gazipur Chowrasta",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "monno-medical-college-and-hospital": {
+        "name": "Monno Medical College and Hospital",
+        "city": "Manikganj, Dhaka",
+        "courses": "MBBS, B.Sc Nursing",
+        "logo_url": null
+    },
+    "tairunnessa-memorial-medical-college": {
+        "name": "Tairunnessa Memorial Medical College",
+        "city": "Gazipur, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "kumudini-womens-medical-college": {
+        "name": "Kumudini Women’s Medical College",
+        "city": "Tangail, Bangladesh",
+        "courses": "MBBS, BDS",
+        "logo_url": null
+    },
+    "dhaka-community-medical-college": {
+        "name": "Dhaka Community Medical College",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS, BDS",
+        "logo_url": null
+    },
+    "ad-din-womens-medical-college": {
+        "name": "Ad-din Women’s Medical College",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "president-abdul-hamid-medical-college": {
+        "name": "President Abdul Hamid Medical College",
+        "city": "Kishoreganj, Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "community-based-medical-college": {
+        "name": "Community Based Medical College",
+        "city": "Mymensingh, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "marks-medical-college-and-hospital": {
+        "name": "Marks Medical College and Hospital",
+        "city": "Mirpur, Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "ashiyan-medical-college": {
+        "name": "Ashiyan Medical College",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "gonoshasthaya-samaj-vittik-medical-college": {
+        "name": "Gonoshasthaya Samaj Vittik Medical College",
+        "city": "Savar, Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "medical-college-for-women-and-hospital": {
+        "name": "Medical College for Women and Hospital",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "monowara-sikder-medical-college": {
+        "name": "Monowara Sikder Medical College",
+        "city": "Shariatpur, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "us-bangla-medical-college": {
+        "name": "US-Bangla Medical College",
+        "city": "Narayangonj, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "zainul-haque-sikder-womens-medical-college": {
+        "name": "Zainul Haque Sikder Women's Medical College",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "diabetic-association-medical-college": {
+        "name": "Diabetic Association Medical College",
+        "city": "Faridpur, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "dhaka-central-international-medical-college": {
+        "name": "Dhaka Central International Medical College",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "east-west-medical-college": {
+        "name": "East West Medical College",
+        "city": "Dhaka, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "ibn-sina-medical-college": {
+        "name": "IBN Sina Medical College",
+        "city": "Kallyanpur, Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "central-medical-college": {
+        "name": "Central Medical College",
+        "city": "Kishoreganj, Bangladesh",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "chattogram-maa-o-shishu-hospital-medical-college": {
+        "name": "Chattogram Maa-o-Shishu Hospital Medical College",
+        "city": "Chattogram",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "tmss-medical-college": {
+        "name": "TMSS Medical College",
+        "city": "Chattogram",
+        "courses": "MBBS, BDS",
+        "logo_url": null
+    },
+    "southern-medical-college": {
+        "name": "Southern Medical College",
+        "city": "Khulshi, Chittagong",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "bikrampur-bhuiyan-medical-college-hospital": {
+        "name": "Bikrampur Bhuiyan Medical College Hospital",
+        "city": "Munshiganj",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "eastern-medical-college": {
+        "name": "Eastern Medical College",
+        "city": "Comilla District",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "bgc-trust": {
+        "name": "BGC Trust",
+        "city": "Chandanaish",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "barind-medical-college": {
+        "name": "Barind Medical College",
+        "city": "Rajshahi",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "north-bengal-medical-college": {
+        "name": "North Bengal Medical College",
+        "city": "Sirajganj",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "rangpur-community-medical-college": {
+        "name": "Rangpur Community Medical College",
+        "city": "Rangpur",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "brahmanbaria-medical-college": {
+        "name": "Brahmanbaria Medical College",
+        "city": "Chittagong",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "khwaja-yunus-ali-medical-college": {
+        "name": "Khwaja Yunus Ali Medical College",
+        "city": "Sirajganj",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "anwer-khan-modern-medical-college": {
+        "name": "Anwer Khan Modern Medical College",
+        "city": "Dhanmondi, Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "shahabuddin-medical-college": {
+        "name": "Shahabuddin Medical College",
+        "city": "Gulshan, Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "holy-family-red-crescent-medical-college": {
+        "name": "Holy Family Red Crescent Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "dr-sirajul-islam-medical-college": {
+        "name": "Dr. Sirajul Islam Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "bangladesh-medical-college": {
+        "name": "Bangladesh Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "universal-medical-college": {
+        "name": "Universal Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "international-medical-college": {
+        "name": "International Medical College",
+        "city": "Gazipur",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "dhaka-national-medical-college": {
+        "name": "Dhaka National Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "prime-medical-college": {
+        "name": "Prime Medical College",
+        "city": "Rangpur",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "ad-din-sakina-womens-medical-college": {
+        "name": "Ad Din Sakina Women’s Medical College",
+        "city": "Jashore",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "islami-bank-medical-college": {
+        "name": "Islami Bank Medical College",
+        "city": "Rajshahi",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "khulna-city-medical-college": {
+        "name": "Khulna City Medical College",
+        "city": "Khulna",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "addin-akij-medical-college": {
+        "name": "Addin Akij Medical College",
+        "city": "Khulna",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "basundhara-ad-din-medical-college": {
+        "name": "Basundhara Ad Din Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "gazi-medical-college-hospital": {
+        "name": "Gazi Medical College & Hospital",
+        "city": "Khulna",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "parkview-medical-college": {
+        "name": "Parkview Medical College",
+        "city": "Sylhet",
+        "courses": "MBBS, BDS",
+        "logo_url": null
+    },
+    "sylhet-womens-medical-college": {
+        "name": "Sylhet Women’s Medical College",
+        "city": "Sylhet",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "jalalabad-raghib-rabeya-medical-college": {
+        "name": "Jalalabad Raghib Rabeya Medical College",
+        "city": "Sylhet",
+        "courses": "MBBS, BDS",
+        "logo_url": null
+    },
+    "north-east-medical-college": {
+        "name": "North East Medical College",
+        "city": "Sirajganj",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "institute-of-applied-health-sciences": {
+        "name": "Institute of Applied Health Sciences",
+        "city": "Chattogram",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "mh-samorita-medical-college": {
+        "name": "MH Samorita Medical College",
+        "city": "Dhaka",
+        "courses": "MBBS",
+        "logo_url": null
+    },
+    "mainamoti-medical-college": {
+        "name": "Mainamoti Medical College",
+        "city": "Comilla",
+        "courses": "MBBS",
+        "logo_url": null
+    }
+}

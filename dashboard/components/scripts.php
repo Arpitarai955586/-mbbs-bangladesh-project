@@ -1,0 +1,11 @@
+ <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>    
+	<script src="assets/plugins/simplebar/simplebar.min.js"></script>
+    <script src="assets/plugins/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="assets/plugins/datatables/js/dataTables.bootstrap5.min.js"></script>
+	<script src="assets/js/moment.min.js"></script>
+	<script src="assets/plugins/daterangepicker/daterangepicker.js"></script>
+	<script src="assets/plugins/apexchart/apexcharts.min.js"></script>
+	<script src="assets/plugins/apexchart/chart-data.js"></script>
+	<script src="assets/json/deals-project.js"></script>
+    <script src="assets/js/script.js"></script>

@@ -1,0 +1,36 @@
+@media (max-width: 600px) {
+    .alliance-topbar .btn {
+        font-size: 12px !important;
+    }
+
+    .icon-wrap i {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+
+    .statCard {
+        padding-bottom: 0 !important;
+    }
+
+    .scholarCard {
+        padding: 15px !important;
+    }
+
+    h2.title {
+        font-size: 24px;
+    }
+.hero-content h1{
+    font-size: 1.5rem !important;
+}
+.hero-content p{
+    font-size: 14px !important;
+    margin-bottom: 20px;
+}
+.section-title .title {
+    font-size: 24px !important;
+}
+section.commonSection{
+    padding: 20px 10px;
+}
+}
