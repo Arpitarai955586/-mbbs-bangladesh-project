@@ -14,7 +14,7 @@ $recognitions = [
 
 <section class="recognitionsSection py-5">
   <div class="container">
-    <h2 class="section-title mb-4">Recognition of Medical Universities in Bangladesh</h2>
+    <h2 class="section-title mb-4"  style="font-size:42px; font-family:'Oswald', sans-serif;">Recognition of Medical Universities in study Abroad</h2>
 
     <!-- Swiper Carousel -->
     <div class="swiper recognitionSwiper">

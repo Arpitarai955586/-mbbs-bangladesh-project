@@ -4,19 +4,19 @@
     <!-- Section Heading -->
     <div class="section-title text-center mb-5">
       <span class="sub-title">Scholarships & Financial Support</span>
-      <h2 class="title">Making <span class="highLighted">MBBS Abroad</span> Affordable</h2>
+      <h2 class="title">Making <span class="highLighted">MBBS  Study Abroad</span> Affordable</h2>
       <p class="text-muted small mt-2 px-md-5">
-        Studying MBBS in Bangladesh is already cost-effective for Indian students, and with available 
+        Studying MBBS in study abroad is already cost-effective for Indian students, and with available 
         scholarships, discounts, and flexible loan assistance, it becomes even more accessible. 
         Here are the financial support options commonly offered to Indian students applying to 
-        Bangladesh medical colleges.
+        study abroad medical colleges.
       </p>
     </div>
 
     <!-- Cards -->
     <div class="row g-4 justify-content-center">
       
-      <!-- Merit Scholarship -->
+      <!-- Merit Scholarship -->  
       <div class="col-md-6 col-lg-4">
         <div class="scholarCard text-center">
           <div class="scholarIcon bg-light-primary mb-3">
@@ -25,7 +25,7 @@
           <h4 class="scholarTitle mb-2">Merit-Based Discounts</h4>
           <p class="text-muted small mb-4">
             Eligible Indian students with high PCB percentages or strong NEET scores may receive 
-            merit-based fee reductions from selected Bangladesh medical colleges.
+            merit-based fee reductions from selected study abroad medical colleges.
           </p>
           <a type="button" data-bs-toggle="modal" data-bs-target="#popupForm" class="btn btn-outline-primary btn-sm  fw-semibold">
             Check Eligibility <i class="fa-solid fa-arrow-right ms-2"></i>

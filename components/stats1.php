@@ -5,20 +5,19 @@
   <div class="container">
 
     <div class="section-title text-center mb-5">
-      <span class="sub-title">Bangladesh MBBS Facts</span>
+      <span class="sub-title">Study Abroad MBBS Facts</span>
       <h2 class="title">
-        Why <span class="highLighted">Bangladesh</span> is Trusted for MBBS
+        Why <span class="highLighted">Study Abroad</span> is Trusted for MBBS
       </h2>
       <p class="text-muted small mt-2 px-md-5">
-        Verified statistics that make Bangladesh the most preferred and successful destination
-        for Indian MBBS aspirants.
+       Verified statistics and global trends that highlight Study Abroad as one of the most trusted and successful pathways for Indian students.
       </p>
     </div>
 
     <?php
     $bdStats = [
-      ["icon" => "ri-user-heart-line", "count" => "12,000+", "label" => "Indian Students", "desc" => "Every year a large number of Indian students choose Bangladesh for MBBS."],
-      ["icon" => "ri-award-line", "count" => "95%", "label" => "NMC Screening Success", "desc" => "Bangladesh produces one of the highest FMGE/NExT pass rates."],
+      ["icon" => "ri-user-heart-line", "count" => "12,000+", "label" => "Indian Students", "desc" => "Every year a large number of Indian students choose Study Abroad for MBBS."],
+      ["icon" => "ri-award-line", "count" => "95%", "label" => "NMC Screening Success", "desc" => "Study Abroad produces one of the highest FMGE/NExT pass rates."],
       ["icon" => "ri-graduation-cap-line", "count" => "5 + 1", "label" => "Years of Study", "desc" => "5 years MBBS + 1 year internship."],
       ["icon" => "ri-hospital-line", "count" => "70+", "label" => "Approved Colleges", "desc" => "NMC-recognized top-quality medical universities."],
       ["icon" => "ri-money-rupee-circle-line", "count" => "₹30–55 L", "label" => "Total Fee", "desc" => "Affordable MBBS fees vs private Indian colleges."],
@@ -154,7 +153,7 @@ document.addEventListener("DOMContentLoaded", function () {
 .bdStatNumber-modern {
   font-size: 32px;
   font-weight: 700;
-  color: #0056d6;
+  color: #0B2c52;
 }
 
 .bdStatLabel-modern {

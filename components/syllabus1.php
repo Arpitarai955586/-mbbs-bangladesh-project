@@ -1,12 +1,13 @@
 <section class="syllabusSection py-5">
   <div class="container">
     <div class="text-center mb-5">
-      <h2 class="title">
-        MBBS in Bangladesh – <span class="highlight">Syllabus Structure</span>
-      </h2>
+      <h2 class="title" style="font-size:42px; font-family:'Oswald', sans-serif;">
+     MBBS in Study Abroad – <span class="highlight">Syllabus Structure</span>
+   </h2>
+
       <p class="subtitle">
-        A well-structured academic curriculum designed to provide strong medical foundations,
-        clinical exposure, and advanced learning across five years of MBBS in Bangladesh.
+        A well-structured academic curriculum designed to deliver strong theoretical foundations, practical exposure, and advanced learning across globally recognized international programs.
+
       </p>
     </div>
 

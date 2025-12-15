@@ -60,7 +60,7 @@
             height: 100%;
             object-fit: cover;
             border-radius: 20px;
-            min-height: 620px; /* Equal height look */
+            min-height: 620px; 
         }
 
         @media (max-width: 992px) {
@@ -81,7 +81,7 @@
             <div class="col-lg-12 text-center">
                 <h1 class="heading-title">Frequently Asked Questions</h1>
                 <p class="mt-3 text-secondary fs-5">
-                    Here are the most important queries asked by students planning to pursue MBBS in Bangladesh.
+                    Here are the most important queries asked by students planning to pursue MBBS in study abroad
                     Everything you need to know — eligibility, fees, validity, safety, and more.
                 </p>
             </div>
@@ -91,7 +91,7 @@
 
             <!-- Left Image -->
             <div class="col-lg-5 side-image">
-                <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Student Image">
+                <img src="assets/img/ask.jpg" alt="Student Image">
             </div>
 
             <!-- FAQ Section -->
@@ -102,15 +102,18 @@
 
                         <?php 
                             $faqs = [
-                                "Is MBBS from Bangladesh valid in India?",
-                                "What is the eligibility for MBBS in Bangladesh?",
-                                "Is NEET required for MBBS admission in Bangladesh?",
-                                "What is the total cost of studying MBBS in Bangladesh?",
-                                "Is Bangladesh safe for Indian students?",
-                                "What is the duration of MBBS in Bangladesh?",
-                                "Is Indian food available in Bangladesh medical colleges?",
-                                "Are Bangladesh medical degrees recognized worldwide?",
-                                "What documents are required for MBBS admission?",
+                               
+                              "Is an MBBS degree earned through Study Abroad valid in India?",
+                              "What are the eligibility criteria for MBBS Study Abroad programs?",
+                             "Is NEET required for MBBS admission through Study Abroad?",
+                            "What is the total cost of studying MBBS abroad?",
+                            "Is it safe for international students to study MBBS abroad?",
+                               "What is the duration of MBBS programs in Study Abroad destinations?",
+                       "Is Indian food available for students studying MBBS abroad?",
+                        "Are MBBS degrees from Study Abroad universities recognized worldwide?",
+                             "What documents are required for MBBS Study Abroad admission?"
+
+
                             ];
 
                             foreach ($faqs as $index => $q) {

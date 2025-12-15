@@ -5,7 +5,7 @@
     <h2 class="hostelTitle">Hostel & <span>Living Facilities</span></h2>
 
     <p class="hostelDesc">
-      Comfortable, safe and student-friendly accommodation for Indian MBBS students in Bangladesh.
+      Comfortable, safe, and student-friendly accommodation options designed to support international students throughout their study abroad journey.
     </p>
 
     <div class="row g-3 justify-content-center">
@@ -90,8 +90,9 @@
 }
 
 .hostelTitle {
-  font-size: 2.2rem;
-  font-weight: 800;
+  font-size: 42px;
+  font-weight: 7
+  00;
 }
 .hostelTitle span {
   color: #ffa037;

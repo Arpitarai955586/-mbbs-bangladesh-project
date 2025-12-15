@@ -16,7 +16,7 @@ $icons = [
   "https://cdn.lordicon.com/eszyyflr.json", // NEET exam
   "https://cdn.lordicon.com/mecwbjnp.json", // Age
   "https://cdn.lordicon.com/nocovwne.json", // 10+2 certificate
-  "https://cdn.lordicon.com/vatwhhgr.json", // PCB subjects
+  "https://cdn.lordicon.com/fhtaantg.json", // PCB subjects
   "https://cdn.lordicon.com/whtfgdfm.json", // Passport
   "https://cdn.lordicon.com/oegrrprk.json", // GPA / analytics
   "https://cdn.lordicon.com/qhgmphtg.json", // Medical fitness
@@ -26,10 +26,11 @@ $icons = [
 
 <section class="eligibility-section py-4" id="eligibility">
   <div class="container">
-
-    <h2 class="section-title mb-4 text-center">
-      MBBS in Bangladesh <span class="highLighted">Eligibility Criteria</span>
+   <h2 class="section-title mb-4 text-center"
+    style="font-size:42px; font-family:'Oswald', sans-serif;">
+      MBBS in Study Abroad <span class="highLighted">Eligibility Criteria</span>
     </h2>
+
 
     <div class="row g-4 justify-content-center">
 

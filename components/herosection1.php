@@ -6,15 +6,16 @@
       <div class="col-md-4 col-sm-6">
         <div class="hero-text-block">
 
-          <h5 class="hero-subtitle">Study MBBS in Bangladesh</h5>
+          <h5 class="hero-subtitle"> MBBS in Study Abroad</h5>
 
           <h1 class="hero-title">
             Begin Your <span class="typing"></span>
           </h1>
 
           <p class="hero-desc">
-            Join the top medical universities in Bangladesh. Affordable fees, world-class infrastructure,
-            globally recognized degree & a safe environment for Indian students.
+          Start your Study Abroad journey with top medical universities worldwide.
+Affordable fees, world-class infrastructure, globally recognized degrees
+and a safe, student-friendly environment.
           </p>
 
           <!-- COUNTRY BUTTONS -->
@@ -36,7 +37,7 @@
 
       <!-- CENTER IMAGE -->
       <div class="col-md-4 d-flex justify-content-center align-items-end">
-        <img src="assets/img/doctor.png" alt="Doctor" class="doctor-img">
+        <!-- <img src="assets/img/doctor.png" alt="Doctor" class="doctor-img"> -->
       </div>
 
       <!-- RIGHT FORM -->

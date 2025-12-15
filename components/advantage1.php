@@ -15,9 +15,11 @@ $advantages = [
 <section class="advantagesSection py-5">
   <div class="container">
 
-    <h2 class="section-title mb-4 text-center">
-      Advantages of Studying <span class="highLighted">MBBS in Bangladesh</span>
+    <h2 class="section-title mb-4 text-center"
+       style="font-size:42px; font-family:'Oswald', sans-serif;">
+       Advantages of Studying <span class="highLighted">MBBS in Study Abroad</span>
     </h2>
+
 
     <div class="row g-4 justify-content-center">
       <?php foreach ($advantages as $adv): ?>

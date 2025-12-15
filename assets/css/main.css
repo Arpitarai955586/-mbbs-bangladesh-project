@@ -14625,13 +14625,24 @@ label.form-label {
   color: var(--color-secondary);
 }
 
-section.hero-mbbs {
-  background: url(../img/herobg.jpg);
+/* section.hero-mbbs {
+  background: url(../img/study.jpg);
   background-size: cover;
   padding: 40px 20px;
   background-position: bottom;
   position: relative;
+} */
+ section.hero-mbbs{
+  min-height: 90vh;             
+  padding: 40px 20px;
+  position: relative;
+
+  background-image: url("../img/study1.jpg");
+  background-repeat: no-repeat;    /* repeat band */
+  background-size: cover;          /* FULL cover */
+  background-position: center center; /* image center me rahe */
 }
+
 
 /* DOCTOR IMAGE */
 .doctor-img {
@@ -14720,6 +14731,7 @@ section.hero-mbbs {
   background: var(--lightprimary);
 }
 
+
 .bdStatCard {
   background: var(--color-white);
   border-radius: 14px;
@@ -14744,6 +14756,7 @@ section.hero-mbbs {
   font-weight: 700;
   color: var(--goodcolor);
 }
+
 
 .bdStatLabel {
   font-size: 1rem;

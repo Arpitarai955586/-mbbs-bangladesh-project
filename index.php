@@ -26,7 +26,10 @@
             include('components/feesandscholarships1.php');
             include('components/testimonials1.php');
             include('components/faq1.php');
-            include('components/finalcta1.php'); ?>
+            include('components/finalcta1.php'); 
+            
+            ?>
+           
         </main>
     </div>
     <?php include('components/footer.php'); ?>

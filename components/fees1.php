@@ -43,7 +43,7 @@ $feeTabs = [
 
   [
     'id' => 'livingCost',
-    'label' => 'Living Cost in Bangladesh',
+    'label' => 'Living Cost in Study Abroad',
     'type' => 'living',
     'rows' => [
       ["name" => "Accommodation", "inr" => "₹5,000 - ₹12,000", "bdt" => "BDT 6,000 - 14,400"],
@@ -63,9 +63,9 @@ $feeTabs = [
   }
   .feeTabBtn {
     padding: 10px 20px;
-    border: 1px solid #0d6efd;
+    border: 1px solid #0B2c52;
     background: #fff;
-    color: #0d6efd;
+    color: #0B2c52;
     border-radius: 10px;
     font-weight: 600;
     cursor: pointer;
@@ -114,8 +114,11 @@ $feeTabs = [
     <!-- Section Title -->
     <div class="sectionTitle text-center mb-4">
       <span class="subTitle">MBBS Budget Planning</span>
-      <h2 class="title">Bangladesh <span class="highLighted">Fee Structure</span></h2>
-      <p class="leadText">Transparent and affordable MBBS fee packages for Indian students.</p>
+     <h2 class="title" style="font-size:42px; font-family:'Oswald', sans-serif;">
+        Study Abroad <span class="highLighted">Fee Structure</span>
+     </h2>
+
+      <p class="leadText">Transparent and affordable fee structures for Study Abroad programs, designed to suit the budget and expectations of Indian students.</p>
     </div>
 
     <!-- Tabs -->
@@ -197,7 +200,7 @@ $feeTabs = [
 
       <div class="col-md-5">
         <div class="feesPic">
-            <img src="assets/img/fees-mbbs.jpg" class="feeImg rounded shadow w-100" alt="MBBS Bangladesh Fees">
+            <img src="assets/img/fees.jpg" class="feeImg rounded shadow w-100" alt="MBBS Bangladesh Fees">
         </div>
       </div>
 

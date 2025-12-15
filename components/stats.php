@@ -30,11 +30,11 @@
 
         foreach ($bdStats as $s): ?>
           <div class="swiper-slide">
-            <div class="bdStatCard text-center p-4">
+            <div class="bdStatCard text-center p-4 ">
               <div class="bdStatIcon">
                 <i class="<?= $s['icon'] ?>"></i>
               </div>
-              <h3 class="bdStatNumber"><?= $s["count"] ?></h3>
+              <h3 class="bdStatNumber" ><?= $s["count"] ?></h3>
               <span class="bdStatLabel"><?= $s["label"] ?></span>
               <p class="bdStatDesc"><?= $s["desc"] ?></p>
             </div>

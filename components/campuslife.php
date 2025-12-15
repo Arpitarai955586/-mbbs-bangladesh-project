@@ -7,11 +7,10 @@ $images = glob($galleryPath . "/*.{jpg,png,jpeg,gif}", GLOB_BRACE);
 
     <div class="section-title text-center mb-5">
       <span class="sub-title">Campus & Student Life</span>
-      <h2 class="title">MBBS in Bangladesh <span class="highLighted">Photo Gallery</span></h2>
+      <h2 class="title">MBBS in Study Abroad <span class="highLighted">Photo Gallery</span></h2>
       <p class="text-muted small mt-2 px-md-5">
-        Explore real glimpses of classrooms, hostels, hospital rotations, Indian student communities
-        and daily life in top Bangladesh medical colleges. These images give a true insight into
-        the environment, facilities and overall student experience.
+       Explore real glimpses of international classrooms, student accommodations, campus life, cultural diversity, and everyday experiences across top study abroad destinations.
+      These visuals offer an authentic insight into academic environments, modern facilities, student communities, and the overall international student lifestyle.
       </p>
     </div>
 

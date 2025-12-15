@@ -1,77 +1,78 @@
 <?php
 $universities = [
-    [
-        "name" => "Siberian State Medical University",
-        "location" => "Tomsk, Russia",
-        "fee" => "₹23.13 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
-    ],
+   [
+    "name" => "Siberian State Medical University",
+    "location" => "Tomsk, Russia",
+    "fee" => "₹23.13 L",
+    "logo" => "assets/img/university/siberian.jpg"
+   ],
     [
         "name" => "Tbilisi State Medical University",
         "location" => "Tbilisi, Georgia",
         "fee" => "₹40.80 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
+        "logo" => "assets/img/university/Tbilisi.jpg"
     ],
     [
         "name" => "Georgian National University SEU",
         "location" => "Tbilisi, Georgia",
         "fee" => "₹32.13 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
+        "logo" => "assets/img/university/Georgian.jpg"
     ],
     [
         "name" => "Avicenna Batumi Medical University",
         "location" => "Batumi, Georgia",
         "fee" => "₹50.0 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
+        "logo" => "assets/img/university/Avicenna.jpg"
     ],
     [
         "name" => "Volgograd State Medical University",
         "location" => "Volgograd, Russia",
         "fee" => "₹27.90 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
+        "logo" => "assets/img/university/Volgograd State Medical University.png"
     ],
     [
         "name" => "Crimean Federal University",
         "location" => "Crimea, Russia",
         "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
+        "logo" => "assets/img/university/Crimean.jpg"
     ],
-     [
+[
+    "name" => "Siberian State Medical University",
+    "location" => "Tomsk, Russia",
+    "fee" => "₹23.13 L",
+    "logo" => "assets/img/university/siberian.jpg"
+   ],
+    [
+        "name" => "Tbilisi State Medical University",
+        "location" => "Tbilisi, Georgia",
+        "fee" => "₹40.80 L",
+        "logo" => "assets/img/university/Tbilisi.jpg"
+    ],
+    [
+        "name" => "Georgian National University SEU",
+        "location" => "Tbilisi, Georgia",
+        "fee" => "₹32.13 L",
+        "logo" => "assets/img/university/Georgian.jpg"
+    ],
+    [
+        "name" => "Avicenna Batumi Medical University",
+        "location" => "Batumi, Georgia",
+        "fee" => "₹50.0 L",
+        "logo" => "assets/img/university/Avicenna.jpg"
+    ],
+    [
+        "name" => "Volgograd State Medical University",
+        "location" => "Volgograd, Russia",
+        "fee" => "₹27.90 L",
+        "logo" => "assets/img/university/Volgograd State Medical University.png"
+    ],
+    [
         "name" => "Crimean Federal University",
         "location" => "Crimea, Russia",
         "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
+        "logo" => "assets/img/university/Crimean.jpg"
     ],
-     [
-        "name" => "Crimean Federal University",
-        "location" => "Crimea, Russia",
-        "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
-    ],
-     [
-        "name" => "Crimean Federal University",
-        "location" => "Crimea, Russia",
-        "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
-    ],
-     [
-        "name" => "Crimean Federal University",
-        "location" => "Crimea, Russia",
-        "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
-    ],
-     [
-        "name" => "Crimean Federal University",
-        "location" => "Crimea, Russia",
-        "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
-    ],
-     [
-        "name" => "Crimean Federal University",
-        "location" => "Crimea, Russia",
-        "fee" => "₹21.00 L",
-        "logo" => "https://www.rmcedu.com/images/bangladesh/study_bangladesh_2.webp"
-    ],
+    
 ];
 ?>
 
@@ -131,7 +132,7 @@ $universities = [
 
     <!-- TITLE + ARROWS -->
     <div class="d-flex justify-content-between align-items-center mb-3">
-        <h2 class="section-title">Our Exclusive Study MBBS Abroad Partners</h2>
+        <h2 class="section-title"  style="font-size:42px; font-family:'Oswald', sans-serif;">Our Exclusive Study MBBS Abroad Partners</h2>
 
         <div class="d-flex gap-2">
 

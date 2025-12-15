@@ -5,11 +5,11 @@
             <!-- Left Content -->
             <div class="col-lg-6 text-white hero-text" data-aos="fade-right">
                 <h1 class="fw-bold display-5">
-                    Ready to Start Your <span class="highlight">MBBS Journey</span> in Bangladesh?
+                    Ready to Start Your <span class="highlight">MBBS Journey</span> in Study Abroad?
                 </h1>
                 
                 <p class="mt-3 fs-5">
-                    Get expert guidance, top college recommendations, complete fee structure, and end-to-end admission assistance for MBBS in Bangladesh.
+                    Get expert guidance, top college recommendations, complete fee structure, and end-to-end admission assistance for MBBS in Study Abroad?.
                 </p>
 
                 <div class="mt-4 d-flex gap-3">
@@ -21,7 +21,7 @@
             <!-- Right Doctor Image -->
            <div class="col-lg-5">
         <div class="cta-image-wrapper">
-          <img src="assets/img/cta-pic.png" alt="MBBS Guidance" class="cta-image">
+          <img src="assets/img/mbbs1.png" alt="MBBS Guidance" class="cta-image">
         </div>
       </div>
         </div>

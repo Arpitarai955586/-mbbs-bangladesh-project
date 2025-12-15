@@ -1,11 +1,11 @@
 <?php
 $admission_steps = [
   "Calculate GPA & check eligibility",
-  "Choose suitable Bangladesh medical colleges",
+  "Choose suitable Study Abroad medical colleges",
   "Submit application form + documents",
   "Get admission confirmation letter",
   "Pay the first-year fee",
-  "Apply for Bangladesh Student Visa & Fly"
+  "Apply for Study Abroad Student Visa & Fly"
 ];
 ?>
 
@@ -17,14 +17,13 @@ $admission_steps = [
       <span class="sub-title">Admission Process</span>
 
       <h2 class="title">
-        Step-by-Step <span class="highLighted">MBBS Admission</span> Process for Bangladesh
+        Step-by-Step <span class="highLighted">MBBS Admission</span> Process for Study Abroad
       </h2>
 
-      <p class="text-muted small mt-2 px-md-5">
-        Applying for MBBS in Bangladesh for Indian students is a simple, transparent and structured 
-        procedure. From document preparation to eligibility checks and final seat confirmation, 
-        each step ensures smooth admission under the Government-approved SAARC quota and private college seats.
-        Here is the complete, easy-to-follow process.
+      <p class="text-muted small mt-2 px-md-5  ">
+        Applying for Study Abroad is a simple, transparent, and well-structured process for Indian students.
+       From profile evaluation and document preparation to university selection, application submission, visa guidance, and final enrollment, every step is designed to ensure a smooth and stress-free admission journey.
+       With expert counseling, globally recognized universities, and clear eligibility criteria, students can confidently begin their international education journey.
       </p>
     </div>
 
@@ -32,7 +31,7 @@ $admission_steps = [
       
       <!-- LEFT IMAGE -->
       <div class="col-lg-5">
-        <img src="assets/img/admission-proccess.jpg" class="img-fluid rounded" alt="Admission Process">
+        <img src="assets/img/Admission.png" class="img-fluid rounded" alt="Admission Process">
 
         <div class="mt-3">
           <a type="button" data-bs-toggle="modal" data-bs-target="#popupForm" class="btn-main px-4 py-2 me-2">

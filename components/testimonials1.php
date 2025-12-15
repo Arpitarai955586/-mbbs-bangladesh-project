@@ -4,36 +4,38 @@
 // ===================================
 
 $testimonials = [
+  
   [
-    'name' => 'Aarav Sharma',
-    'city' => 'Delhi, India',
-    'quote' => 'Choosing MBBS in Bangladesh was the best decision. Quality education, Indian-friendly culture and affordable fees made my journey smooth.',
-    'achievement' => 'MBBS Student — Dhaka'
+    'name' => 'Alex Johnson',
+    'city' => 'International Student',
+    'quote' => 'Choosing to study abroad for MBBS was a life-changing decision. The global learning environment, modern facilities, and practical exposure exceeded my expectations.',
+    'achievement' => 'MBBS Student — International Medical University'
   ],
   [
-    'name' => 'Priya Nair',
-    'city' => 'Kochi, Kerala',
-    'quote' => 'The teaching style, clinical exposure and discipline here helped me gain confidence as a future doctor.',
-    'achievement' => 'Placed in Govt. Internship — Bangladesh'
+    'name' => 'Maria Fernandez',
+    'city' => 'Overseas Student',
+    'quote' => 'The academic structure, clinical training, and multicultural campus helped me grow both professionally and personally as a future doctor.',
+    'achievement' => 'Clinical Internship — Overseas University'
   ],
   [
-    'name' => 'Rahul Verma',
-    'city' => 'Jaipur, Rajasthan',
-    'quote' => 'Bangladesh medical colleges maintain high standards similar to India. The faculty is extremely supportive.',
+    'name' => 'Daniel Kim',
+    'city' => 'International Applicant',
+    'quote' => 'Studying MBBS abroad gave me access to experienced faculty, advanced infrastructure, and a globally aligned curriculum.',
     'achievement' => 'Top Performer — 3rd Year MBBS'
   ],
   [
-    'name' => 'Sneha Kulkarni',
-    'city' => 'Pune, Maharashtra',
-    'quote' => 'Hostel, food, academics — everything is well managed. Very safe for Indian students, especially girls.',
-    'achievement' => 'Clinical Rotation — Dhaka Medical Area'
+    'name' => 'Sophia Müller',
+    'city' => 'Global Student',
+    'quote' => 'Student accommodation, academics, and campus life are well organized. The environment is safe, supportive, and student-focused.',
+    'achievement' => 'Clinical Training — International Campus'
   ],
   [
-    'name' => 'Imran Siddiqui',
-    'city' => 'Lucknow, Uttar Pradesh',
-    'quote' => 'MBBS in Bangladesh gave me the right mix of theory and hands-on practice. Truly worth it!',
-    'achievement' => 'Final Year — Excellent Academic Score'
+    'name' => 'Ahmed Al-Farsi',
+    'city' => 'Overseas Medical Student',
+    'quote' => 'MBBS through study abroad offered the perfect balance of theory, hands-on practice, and international exposure. Highly recommended.',
+    'achievement' => 'Final Year MBBS — Excellent Academic Record'
   ]
+
 ];
 
 // Avatar generator API
@@ -111,9 +113,16 @@ function getAvatar($name) {
       <a type="button" data-bs-toggle="modal" data-bs-target="#popupForm" class="btn btn-warning me-3 px-4 fw-semibold text-dark">
         <i class="fa-solid fa-user-plus me-2"></i> Apply Now
       </a>
-      <a type="button" data-bs-toggle="modal" data-bs-target="#popupForm" class="btn btn-outline-primary px-4 fw-semibold">
-        <i class="fa-solid fa-comments me-2"></i> Enquire Now
-      </a>
+     <a type="button"
+   data-bs-toggle="modal"
+   data-bs-target="#popupForm"
+   class="btn px-4 fw-semibold"
+   style="color:#0B2c52; border-color:#0B2c52; "
+   onmouseover="this.style.backgroundColor='#0B2c52'; this.style.borderColor='#0B2c52';"
+   onmouseout="this.style.backgroundColor='#00894'; this.style.borderColor='#00894';">
+  <i class="fa-solid fa-comments me-2"></i> Enquire Now
+</a>
+
     </div>
 
   </div>
