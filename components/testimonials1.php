@@ -109,21 +109,24 @@ function getAvatar($name) {
       <div class="swiper-pagination"></div>
     </div>
 
-    <div class="text-center mt-5">
-      <a type="button" data-bs-toggle="modal" data-bs-target="#popupForm" class="btn btn-warning me-3 px-4 fw-semibold text-dark">
-        <i class="fa-solid fa-user-plus me-2"></i> Apply Now
-      </a>
+    <div class="text-center mt-5  ">
+      <a type="button"
+     data-bs-toggle="modal"
+     data-bs-target="#popupForm"
+     class="btn btn-warning px-4 fw-semibold text-dark ">
+    <i class="fa-solid fa-user-plus me-2"></i> Apply Now
+  </a>
      <a type="button"
    data-bs-toggle="modal"
    data-bs-target="#popupForm"
    class="btn px-4 fw-semibold"
    style="color:#0B2c52; border-color:#0B2c52; "
-   onmouseover="this.style.backgroundColor='#0B2c52'; this.style.borderColor='#0B2c52';"
-   onmouseout="this.style.backgroundColor='#00894'; this.style.borderColor='#00894';">
+   >
   <i class="fa-solid fa-comments me-2"></i> Enquire Now
 </a>
 
     </div>
+    
 
   </div>
 </section>

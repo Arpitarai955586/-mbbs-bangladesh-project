@@ -1,6 +1,6 @@
 <?php
 $site_identity = [
-  'site_name' => 'MBBS Bangladesh',
+  'site_name' => 'MBBS StudyAbroad',
   'email' => 'info@mbbsbangladeshs.com',
   'phone' => '+91 9839865347',
   'whatsapp' => 'https://wa.me/919839865347',

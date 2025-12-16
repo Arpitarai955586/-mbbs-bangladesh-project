@@ -14,8 +14,8 @@
 
           <p class="hero-desc">
           Start your Study Abroad journey with top medical universities worldwide.
-Affordable fees, world-class infrastructure, globally recognized degrees
-and a safe, student-friendly environment.
+          Affordable fees, world-class infrastructure, globally recognized degrees
+           and a safe, student-friendly environment.
           </p>
 
           <!-- COUNTRY BUTTONS -->
@@ -85,10 +85,12 @@ and a safe, student-friendly environment.
                 </datalist>
               </div>
 
-              <div class="col-12">
-                <button type="submit" class="btn-main w-100">
-                  Apply Now <i class="bi bi-send-fill ms-1"></i>
-                </button>
+              <div class="col-12  ">
+                <button type="submit"
+        class="btn-main w-100"
+        style="display:flex; align-items:center; justify-content:center;">
+               Apply Now <i class="bi bi-send-fill ms-1"></i>
+           </button>
               </div>
 
             </div>
@@ -133,11 +135,11 @@ document.addEventListener("DOMContentLoaded", () => {
      COUNTRY BUTTONS
   ---------------------- */
   const countries = [
-    { name: "India", flag: "https://flagcdn.com/w40/in.png" },
-    { name: "Bangladesh", flag: "https://flagcdn.com/w40/bd.png" },
-    { name: "Nepal", flag: "https://flagcdn.com/w40/np.png" },
-    { name: "Russia", flag: "https://flagcdn.com/w40/ru.png" },
-    { name: "Kazakhstan", flag: "https://flagcdn.com/w40/kz.png" },
+  
+  { name: "Georgia", flag: "https://flagcdn.com/w40/ge.png" },
+  { name: "Russia", flag: "https://flagcdn.com/w40/ru.png" },
+  { name: "Kyrgyzstan", flag: "https://flagcdn.com/w40/kg.png" },
+ { name: "Kazakhstan", flag: "https://flagcdn.com/w40/kz.png" },
     
   ];
 

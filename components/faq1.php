@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>MBBS in Bangladesh – FAQ</title>
+    <title>MBBS Study Abroad – FAQ</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -30,22 +30,19 @@
             box-shadow: 0px 10px 25px rgba(0,0,0,0.07);
         }
 
-        /* Accordion styling */
         .accordion-button {
             font-size: 18px;
             font-weight: 600;
             color: #1e293b;
             padding: 18px;
-            transition: 0.3s ease;
         }
 
         .accordion-button:not(.collapsed) {
             background-color: #eef5ff;
-            color: #0d6efd;
+            color: #1e293b;
             box-shadow: none;
         }
 
-        /* Arrow Rotate Effect */
         .accordion-button::after {
             transition: transform 0.3s ease;
         }
@@ -54,13 +51,12 @@
             transform: rotate(-180deg);
         }
 
-        /* Image full equal height */
         .side-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
             border-radius: 20px;
-            min-height: 620px; 
+            min-height: 620px;
         }
 
         @media (max-width: 992px) {
@@ -69,82 +65,104 @@
             }
         }
     </style>
-
 </head>
 
 <body>
 
-    <div class="container hero-section">
+<div class="container hero-section">
 
-        <!-- Title -->
-        <div class="row mb-5">
-            <div class="col-lg-12 text-center">
-                <h1 class="heading-title">Frequently Asked Questions</h1>
-                <p class="mt-3 text-secondary fs-5">
-                    Here are the most important queries asked by students planning to pursue MBBS in study abroad
-                    Everything you need to know — eligibility, fees, validity, safety, and more.
-                </p>
-            </div>
+    <!-- Title -->
+    <div class="row mb-5">
+        <div class="col-lg-12 text-center">
+            <h1 class="heading-title">Frequently Asked Questions</h1>
+            <p class="mt-3 text-secondary fs-5">
+                Everything you need to know about MBBS Study Abroad — eligibility, fees, safety, recognition & more.
+            </p>
+        </div>
+    </div>
+
+    <div class="row g-5">
+
+        <!-- Left Image -->
+        <div class="col-lg-5 side-image">
+            <img src="assets/img/ask.jpg" alt="MBBS Study Abroad">
         </div>
 
-        <div class="row g-5">
+        <!-- FAQ Section -->
+        <div class="col-lg-7">
+            <div class="faq-box">
 
-            <!-- Left Image -->
-            <div class="col-lg-5 side-image">
-                <img src="assets/img/ask.jpg" alt="Student Image">
+                <div class="accordion" id="faqAccordion">
+
+<?php
+$faqs = [
+  [
+    "q" => "Is an MBBS degree earned through Study Abroad valid in India?",
+    "a" => "Yes, MBBS degrees from NMC-approved and WHO-recognized universities are valid in India. Students must qualify the FMGE or NExT exam to practice medicine in India."
+  ],
+  [
+    "q" => "What are the eligibility criteria for MBBS Study Abroad programs?",
+    "a" => "Students must have completed 10+2 with Physics, Chemistry, and Biology, scored at least 50% (40% for reserved categories), and be 17 years old."
+  ],
+  [
+    "q" => "Is NEET required for MBBS admission through Study Abroad?",
+    "a" => "Yes, qualifying NEET is mandatory for Indian students to pursue MBBS abroad and for medical practice in India."
+  ],
+  [
+    "q" => "What is the total cost of studying MBBS abroad?",
+    "a" => "The total cost generally ranges between ₹20–40 lakhs depending on the country, university, and living expenses."
+  ],
+  [
+    "q" => "Is it safe for international students to study MBBS abroad?",
+    "a" => "Yes, Study Abroad destinations have safe campuses, international student hostels, and support services to ensure student safety."
+  ],
+  [
+    "q" => "What is the duration of MBBS programs abroad?",
+    "a" => "The MBBS program duration is usually 5–6 years including classroom study and clinical internship."
+  ],
+  [
+    "q" => "Is Indian food available for MBBS students abroad?",
+    "a" => "Yes, Indian food is widely available. Many universities provide Indian mess facilities or nearby Indian restaurants."
+  ],
+  [
+    "q" => "Are MBBS degrees from abroad recognized worldwide?",
+    "a" => "Yes, degrees from WHO and NMC-recognized universities are globally accepted. Graduates can appear for exams like USMLE, PLAB, and others."
+  ],
+  [
+    "q" => "What documents are required for MBBS Study Abroad admission?",
+    "a" => "Required documents include 10th & 12th mark sheets, NEET scorecard, passport, photographs, medical fitness certificate, and birth certificate."
+  ]
+];
+
+foreach ($faqs as $index => $faq) {
+    echo "
+    <div class='accordion-item mb-2'>
+        <h2 class='accordion-header'>
+            <button class='accordion-button collapsed' type='button'
+                data-bs-toggle='collapse'
+                data-bs-target='#faq$index'>
+                {$faq['q']}
+            </button>
+        </h2>
+        <div id='faq$index' class='accordion-collapse collapse'
+            data-bs-parent='#faqAccordion'>
+            <div class='accordion-body'>
+                {$faq['a']}
             </div>
+        </div>
+    </div>";
+}
+?>
 
-            <!-- FAQ Section -->
-            <div class="col-lg-7">
-                <div class="faq-box">
-
-                    <div class="accordion" id="faqAccordion">
-
-                        <?php 
-                            $faqs = [
-                               
-                              "Is an MBBS degree earned through Study Abroad valid in India?",
-                              "What are the eligibility criteria for MBBS Study Abroad programs?",
-                             "Is NEET required for MBBS admission through Study Abroad?",
-                            "What is the total cost of studying MBBS abroad?",
-                            "Is it safe for international students to study MBBS abroad?",
-                               "What is the duration of MBBS programs in Study Abroad destinations?",
-                       "Is Indian food available for students studying MBBS abroad?",
-                        "Are MBBS degrees from Study Abroad universities recognized worldwide?",
-                             "What documents are required for MBBS Study Abroad admission?"
-
-
-                            ];
-
-                            foreach ($faqs as $index => $q) {
-                                echo "
-                                <div class='accordion-item mb-2'>
-                                    <h2 class='accordion-header'>
-                                        <button class='accordion-button collapsed' 
-                                            type='button' data-bs-toggle='collapse' 
-                                            data-bs-target='#faq$index'>
-                                            $q
-                                        </button>
-                                    </h2>
-                                    <div id='faq$index' class='accordion-collapse collapse' data-bs-parent='#faqAccordion'>
-                                        <div class='accordion-body'>
-                                            Answer coming soon...
-                                        </div>
-                                    </div>
-                                </div>";
-                            }
-                        ?>
-
-                    </div>
                 </div>
             </div>
-
         </div>
 
     </div>
+</div>
 
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
